@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python quartiles_plot.py
+python plot_quartiles.py
 ```
 
 <p align="center">
